@@ -10,3 +10,15 @@
 .hero-section{
     padding-top: 100px;
 }
+.fas {
+    color: yellow;
+}
+.btn{
+    border: none;
+    padding: 12px 40px;
+    width: 250px;
+    transition: .5s;
+}
+.btn:hover{
+    transform: scale(1.1);
+}
